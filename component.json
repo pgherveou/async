@@ -1,0 +1,7 @@
+{
+  "name": "async",
+  "description": "async component",
+  "dependencies": {},
+  "scripts": ["lib/async.js"],
+  "main": "lib/async.js"
+}
